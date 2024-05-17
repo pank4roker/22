@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\22_1\obj\Debug\22_1.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\22_1\obj\Debug\22_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\22_1\obj\Debug\22_1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\22_1\bin\Debug\22_1.exe.config
+C:\Users\Kirill\Desktop\22_1\bin\Debug\22_1.exe
+C:\Users\Kirill\Desktop\22_1\bin\Debug\22_1.pdb
+C:\Users\Kirill\Desktop\22_1\obj\Debug\22_1.exe
+C:\Users\Kirill\Desktop\22_1\obj\Debug\22_1.pdb
